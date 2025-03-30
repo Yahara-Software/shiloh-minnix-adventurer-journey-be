@@ -1,0 +1,30 @@
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\bin\Debug\net8.0\Adventurer Journey.exe
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\bin\Debug\net8.0\Adventurer Journey.deps.json
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\bin\Debug\net8.0\Adventurer Journey.runtimeconfig.json
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\bin\Debug\net8.0\Adventurer Journey.dll
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\bin\Debug\net8.0\Adventurer Journey.pdb
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.AssemblyInfoInputs.cache
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.AssemblyInfo.cs
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.csproj.CoreCompileInputs.cache
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.sourcelink.json
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.dll
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\refint\Adventurer Journey.dll
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.pdb
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\Adventurer Journey.genruntimeconfig.cache
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\Adventurer Journey\obj\Debug\net8.0\ref\Adventurer Journey.dll
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\bin\Debug\net8.0\Adventurer Journey.exe
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\bin\Debug\net8.0\Adventurer Journey.deps.json
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\bin\Debug\net8.0\Adventurer Journey.runtimeconfig.json
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\bin\Debug\net8.0\Adventurer Journey.dll
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\bin\Debug\net8.0\Adventurer Journey.pdb
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.AssemblyInfoInputs.cache
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.AssemblyInfo.cs
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.csproj.CoreCompileInputs.cache
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.sourcelink.json
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.dll
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\refint\Adventurer Journey.dll
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.pdb
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\Adventurer Journey.genruntimeconfig.cache
+C:\Users\roror\Desktop\applicationProblems\yaharaCodeAssessment\shiloh-minnix-adventurer-journey-be\obj\Debug\net8.0\ref\Adventurer Journey.dll
