@@ -1,0 +1,3 @@
+To run this project, open the Adventurer Journey folder. Then, open the Adventurer Journey.sln in VS and run from source. This is a console application project.
+
+From there, there will be onscreen prompts.
